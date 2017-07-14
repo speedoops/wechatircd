@@ -9,8 +9,8 @@
 // @match        https://wx2.qq.com/
 // @match        https://wx2.qq.com/?*
 // @run-at       document-start
-// @downloadURL  https://github.com/MaskRay/wechatircd/raw/master/injector.user.js
-// @updateURL    https://github.com/MaskRay/wechatircd/raw/master/injector.user.js
+// @downloadURL  https://github.com/speedoops/wechatircd/raw/master/injector.user.js
+// @updateURL    https://github.com/speedoops/wechatircd/raw/master/injector.user.js
 // ==/UserScript==
 
 var script = document.createElement('script')
