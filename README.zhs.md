@@ -55,7 +55,7 @@ IRC服务器默认监听127.0.0.1:6667 (IRC)和127.0.0.1:9000 (HTTPS + WebSocket
 Chrome/Chromium
 
 - 访问`chrome://settings/certificates`，导入`ca.cert.pem`，在Authorities标签页选择该证书，Edit->Trust this certificate for identifying websites.
-- 安装Tampermonkey扩展，点击<https://github.com/MaskRay/wechatircd/raw/master/injector.user.js>安装userscript，效果是在<https://wx.qq.com>页面注入<https://127.0.0.1:9000/injector.js>。如果监听不同地址，需要修改`127.0.0.1:9000`
+- 安装Tampermonkey扩展，点击<https://github.com/speedoops/wechatircd/raw/master/injector.user.js>安装userscript，效果是在<https://wx.qq.com>页面注入<https://127.0.0.1:9000/injector.js>。如果监听不同地址，需要修改`127.0.0.1:9000`
 
 Firefox
 
